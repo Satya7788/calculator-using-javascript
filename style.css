@@ -1,0 +1,21 @@
+#n1{
+    color: blue;
+}
+#n2{
+    color:orange
+}
+
+
+body{
+    background-color: rgb(202, 238, 166);
+}
+#but
+{
+    width: 70%;
+    color: rgb(18, 18, 17);
+    background-color:rgb(135, 232, 232);
+}
+#Result{
+   color: rgb(235, 110, 13);
+
+}
